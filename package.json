@@ -5,7 +5,7 @@
   "main": "stylesheets/_lists.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "lists",
+    "name": "atom-lists",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
