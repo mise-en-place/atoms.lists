@@ -10,8 +10,8 @@ category: atoms
 ---
 */
 
-@import "tool-font-scale";
-@import "tool-rem-calc";
+@import "~mep-tools.font-scale";
+@import "~mep-tools.rem-calc";
 
 %list-base {
     @include font-scale(base);
